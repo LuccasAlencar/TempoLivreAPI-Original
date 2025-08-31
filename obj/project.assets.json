@@ -3270,19 +3270,19 @@
     ]
   },
   "packageFolders": {
-    "/home/luccas/.nuget/packages/": {}
+    "C:\\Users\\lucca\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/luccas/RiderProjects/TempoLivreAPI/TempoLivreAPI/TempoLivreAPI.csproj",
+      "projectUniqueName": "A:\\RiderProjects\\TempoLivreAPIC-Original\\TempoLivreAPIC-Original\\TempoLivreAPI.csproj",
       "projectName": "TempoLivreAPI",
-      "projectPath": "/home/luccas/RiderProjects/TempoLivreAPI/TempoLivreAPI/TempoLivreAPI.csproj",
-      "packagesPath": "/home/luccas/.nuget/packages/",
-      "outputPath": "/home/luccas/RiderProjects/TempoLivreAPI/TempoLivreAPI/obj/",
+      "projectPath": "A:\\RiderProjects\\TempoLivreAPIC-Original\\TempoLivreAPIC-Original\\TempoLivreAPI.csproj",
+      "packagesPath": "C:\\Users\\lucca\\.nuget\\packages\\",
+      "outputPath": "A:\\RiderProjects\\TempoLivreAPIC-Original\\TempoLivreAPIC-Original\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/luccas/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lucca\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3300,7 +3300,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -3346,12 +3352,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.15, 8.0.15]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -3360,7 +3360,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

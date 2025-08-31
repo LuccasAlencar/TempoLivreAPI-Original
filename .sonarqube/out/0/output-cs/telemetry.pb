@@ -1,0 +1,1 @@
+kRUA:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\TempoLivreAPI.csproj¢net8.0òCSharp12

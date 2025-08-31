@@ -1,0 +1,7 @@
+organization=luccasalencar
+projectKey=LuccasAlencar_TempoLivreAPI-Original
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.66685
+dashboardUrl=https://sonarcloud.io/dashboard?id=LuccasAlencar_TempoLivreAPI-Original
+ceTaskId=AZkB8iBMV8ArEFXL3_d0
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZkB8iBMV8ArEFXL3_d0
