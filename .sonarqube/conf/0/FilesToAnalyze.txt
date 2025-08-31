@@ -8,6 +8,15 @@ A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\DTOs\Ocorrencia
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\DTOs\RotasSegurasDtos.cs
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\DTOs\SensorDtos.cs
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\DTOs\UsuarioDtos.cs
+A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Endpoints\AbrigoEndpoints.cs
+A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Endpoints\AlertaEndpoints.cs
+A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Endpoints\LeituraEndpoints.cs
+A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Endpoints\LocalizacaoEndpoints.cs
+A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Endpoints\OcorrenciaEndpoints.cs
+A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Endpoints\RotaSeguraEndpoints.cs
+A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Endpoints\SensorEndpoints.cs
+A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Endpoints\UsuarioEndpoints.cs
+A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Helpers\Constants.cs
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Migrations\20250603194143_InitialCreate.cs
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Migrations\20250603194143_InitialCreate.Designer.cs
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Migrations\AppDbContextModelSnapshot.cs
@@ -26,6 +35,8 @@ A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\obj\Debug\net8.
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\obj\Debug\net8.0\TempoLivreAPI.MvcApplicationPartsAssemblyInfo.cs
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\appsettings.Development.json
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\appsettings.json
+A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\.env
+A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\.gitignore
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\docker-compose.yaml
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\Dockerfile
 A:\RiderProjects\TempoLivreAPIC-Original\TempoLivreAPIC-Original\oracle\create_user.sql
